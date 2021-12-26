@@ -13,3 +13,4 @@ Enviado
 a
 funcionalidade 
 x
+enviado a funcionalidade B
